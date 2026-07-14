@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Jaya Lakshmi 👋
 
-<!--
-**jayalakshmiderangula837-collab/jayalakshmiderangula837-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- B.Tech CSE Student (2027)
+- Vijaya Institute of Technology for Women
+- Aspiring Data Analyst & Full Stack Developer
+- Passionate about learning new technologies
 
-Here are some ideas to get you started:
+## 💻 Skills
+- Python
+- SQL
+- HTML
+- CSS
+- Bootstrap
+- Git & GitHub
+- Tableau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- Rising Waters – Flood Prediction System
+- Bootstrap Learning Website
+
+## 📚 Currently Learning
+- Data Analytics
+- Power BI
+- Full Stack Development
+
+## 📫 Contact
+- 📧 Email: jayalakshmiderangula837@gmail.com
+
+⭐ Thanks for visiting my GitHub profile!
